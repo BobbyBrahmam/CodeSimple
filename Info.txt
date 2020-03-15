@@ -1,0 +1,8 @@
+SELENIUM WITH CUCUMBER (BEHAVIOURAL DRIVEN DEVELOPMENT)
+Components:
+1. Tool - Selenium
+2. Language - Java
+3. Framework - Maven
+4. Plugins - Cucumber.Api / TestNG / JUnit
+5. Repository - Git
+6. Repository Management - GitHub
