@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="SeleniumMaven" verbose="1">
+	<test name="SeleniuMavenLearn">
+		<classes>
+			<class name="SeleniuMavenLearn.App" />
+		</classes>
+	</test>
+</suite>
